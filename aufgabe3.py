@@ -1,19 +1,3 @@
-'''
-    Line Following program for Picar-X:
-
-    Pay attention to modify the reference value of the grayscale module 
-    according to the practical usage scenarios.
-    Auto calibrate grayscale values:
-        Please run ./calibration/grayscale_calibration.py
-    Manual modification:
-        Use the following: 
-            px.set_line_reference([1400, 1400, 1400])
-        The reference value be close to the middle of the line gray value
-        and the background gray value.
-
-'''
-#Daniel Sitner, Raphael Colin, Abdulkarim Bashir Termanini, Niklas Wagner, Awat Hasan, Mariam Alwaas
-
 import Testverzeichnis
 import time
 
