@@ -1,5 +1,3 @@
-#Daniel Sitner, Raphael Colin, Abdulkarim Bashir Termanini, Niklas Wagner, Awat Hasan, Mariam Alwaas
-
 import Testverzeichnis
 import time
 
